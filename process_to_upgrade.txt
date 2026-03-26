@@ -1,0 +1,9 @@
+1. keep the reader powered 
+2. Open the utility 
+3. select the bin file
+4. open the port
+5. click on the download the progress will start 
+5. turn off the power switch
+6. it will complete the progress
+7. close the utility
+8. turn of the power.
